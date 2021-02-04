@@ -1,0 +1,31 @@
+## 2. Data
+### 2.1 Postal Code
+First, I will gather the name of a neighbourhood from Wikipedia.
+- The postal code of the Toronto area begin with M. https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M,
+- The postal code of Metro Vancouver begins with V. https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_V
+
+Unlike Toronto, I will gather data on metro Vancouver which is consisted of several cities. The member of Metro Vancouver can be found following link: https://en.wikipedia.org/wiki/Metro_Vancouver_Regional_District.
+
+### 2.2 List of Neighborhoods Name
+I will create a list of the name of a neighbourhood from various sources.
+
+### 2.3 Coordinates of the Neighborhoods
+Using geopy and google map, I will add coordinates for each neighbourhood and create two maps marked neighbourhoods using Folium for Toronto and Metro Vancouver.
+
+### 2.4 Foursquare data
+For each neighbourhood in two cities, I will gather the following venues:
+- Schools: primary school, secondary school, college and university
+- hospital and clinic
+- Government agency or buildings including a police station and fire station
+- Stores: Convenient store, mart, shop, drugstore
+- Restaurants
+- Banks
+- Gas Stations
+- Parks, Lakes
+- etc.
+
+### 2.5 Categorize Venues for each neighborhoods
+I will classify the venue information in various criteria. Here are some criteria:
+- The top 10 popular restaurant or cuisine in two cities
+- The most density neighbourhoods for each category of venues
+- etc.
