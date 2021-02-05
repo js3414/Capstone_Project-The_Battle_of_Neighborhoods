@@ -24,8 +24,12 @@ For each neighbourhood in two cities, I will gather the following venues:
 - Parks, Lakes
 - etc.
 
-### 2.5 Categorize Venues for each neighborhoods
-I will classify the venue information in various criteria. Here are some criteria:
-- The top 10 popular restaurant or cuisine in two cities
-- The most density neighbourhoods for each category of venues
+### 2.5 Clustering and Segmenting Neighborhoods
+Clustering and segmenting neighborhoods using k-means algorithm.
+- If number of venues within walking distance (e.g. 1Km) are samll, that neighborhood will be residential area.
+- If number of venues within 1Km radius are high, that neighborhood will be commercial area.
+
+I will compare commercial and residential areas in two cities with various criteria.
+- Most popular venue type in commercial area
+- Most populst venue type in residential area
 - etc.
