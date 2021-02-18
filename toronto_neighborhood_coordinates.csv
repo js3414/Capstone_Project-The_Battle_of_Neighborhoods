@@ -1,0 +1,196 @@
+,Neighborhood,City,Latitude,Longitude
+0,Parkwoods,Toronto,43.7587999,-79.3201966
+1,Victoria Village,Toronto,43.732658,-79.3111892
+2,Regent Park,Toronto,43.6607056,-79.3604569
+3,Harbourfront,Toronto,43.6400801,-79.3801495
+4,Lawrence Manor,Toronto,43.7220788,-79.4375067
+5,Lawrence Heights,Toronto,43.7227784,-79.4509332
+6,Queen's Park,Toronto,43.659659,-79.3903399
+7,Islington Avenue,Toronto,43.6389593,-79.5210499
+8,Humber Valley Village,Toronto,43.6664717,-79.5243136
+9,Malvern,Toronto,43.8091955,-79.2217008
+10,Rouge,Toronto,43.8049304,-79.1658374
+11,Don Mills,Toronto,43.775347,-79.3459439
+12,Parkview Hill,Toronto,43.7062977,-79.3219073
+13,Woodbine Gardens,Toronto,43.7120785,-79.3025673
+14,Garden District,Toronto,43.6564995,-79.3771141
+15,Ryerson,Toronto,43.6583244,-79.37892515687948
+16,Glencairn,Toronto,43.7087117,-79.4406853
+17,West Deane Park,Toronto,43.6631995,-79.5685684
+18,Princess Gardens,Toronto,43.6404664,-79.3912237
+19,Martin Grove,Toronto,43.6534817,-79.3839347
+20,Islington,Toronto,43.645335,-79.5248163
+21,Cloverdale,Toronto,43.633637,-79.5497447
+22,Rouge Hill,Toronto,43.7802711,-79.1304992
+23,Port Union,Toronto,43.7755039,-79.1349765
+24,Highland Creek,Toronto,43.7901172,-79.1733344
+25,Woodbine Heights,Toronto,43.69992,-79.319279
+26,St. James Town,Toronto,43.6694032,-79.3727041
+27,Humewood-Cedarvale,Toronto,43.6883215,-79.4280805
+28,Eringate,Toronto,43.6622732,-79.5765162
+29,Bloordale Gardens,Toronto,43.6353169,-79.5636744
+30,Old Burnhamthorpe,Toronto,43.6393732,-79.5843869
+31,Markland Wood,Toronto,43.63123865,-79.58543401986114
+32,Guildwood,Toronto,43.7552251,-79.1982293
+33,Morningside,Toronto,43.7826012,-79.2049579
+34,West Hill,Toronto,43.7689144,-79.1872905
+35,The Beaches,Toronto,43.6710244,-79.296712
+36,Berczy Park,Toronto,43.64798435,-79.37539591138858
+37,Woburn,Toronto,43.7598243,-79.2252908
+38,Leaside,Toronto,43.7047983,-79.3680904
+39,Central Bay Street,Toronto,43.6706485,-79.3898668
+40,Christie,Toronto,43.6641106,-79.4184051
+41,Cedarbrae,Toronto,43.75646655,-79.22669244258802
+42,Hillcrest Village,Toronto,43.6816953,-79.4257118
+43,Bathurst Manor,Toronto,43.6655189,-79.4119373
+44,Wilson Heights,Toronto,43.7405195,-79.4400172
+45,Downsview North,Toronto,43.7492988,-79.462248
+46,Thorncliffe Park,Toronto,43.704553,-79.3454074
+47,Richmond,Toronto,43.8125891,-79.2633703893962
+48,Adelaide,Toronto,43.6504863,-79.37949791351815
+49,King,Toronto,43.6489494,-79.3777538
+50,Dufferin,Toronto,43.6602019,-79.4357191
+51,Dovercourt Village,Toronto,43.6653069,-79.4326362
+52,Scarborough Village,Toronto,43.7437422,-79.2116324
+53,Fairview,Toronto,43.777758500000004,-79.34429375180316
+54,Henry Farm,Toronto,43.7695089,-79.354296
+55,Oriole,Toronto,43.765498,-79.3642688
+56,Northwood Park,Toronto,43.7541351,-79.50448
+57,York University,Toronto,43.7743325,-79.50027054016516
+58,East Toronto,Toronto,43.626243,-79.396962
+59,Broadview North (Old East York),Toronto,43.6839216,-79.3569421
+60,Harbourfront East,Toronto,43.6400801,-79.3801495
+61,Union Station,Toronto,43.6446934,-79.38013200585965
+62,Toronto Islands,Toronto,43.6230544,-79.39431563721035
+63,Little Portugal,Toronto,43.64741325,-79.43111632546047
+64,Trinity,Toronto,43.665301549999995,-79.39525214965947
+65,Kennedy Park,Toronto,43.724878,-79.2539688
+66,Ionview,Toronto,43.7359904,-79.2765146
+67,East Birchmount Park,Toronto,43.7141672,-79.271109
+68,Bayview Village,Toronto,43.7691966,-79.3766617
+69,Downsview,Toronto,43.7492988,-79.462248
+70,The Danforth West,Toronto,43.6864333,-79.3003555
+71,Riverdale,Toronto,43.6654704,-79.3525936
+72,Toronto Dominion Centre,Toronto,43.6473768,-79.3813719429129
+73,Design Exchange,Toronto,43.6477412,-79.3801145
+74,Brockton,Toronto,43.6509173,-79.4400216
+75,Parkdale Village,Toronto,43.6404954,-79.4368965
+76,Exhibition Place,Toronto,43.6335207,-79.4177242473176
+77,Golden Mile,Toronto,43.7278414,-79.2876217
+78,Clairlea,Toronto,43.7088231,-79.2959856
+79,Oakridge,Toronto,43.6971738,-79.2748232
+80,York Mills,Toronto,43.7440391,-79.406657
+81,Silver Hills,Toronto,43.7612224,-79.3683818
+82,India Bazaar,Toronto,43.6722231,-79.3235032
+83,The Beaches West,Toronto,43.6710244,-79.296712
+84,Commerce Court,Toronto,43.648163800000006,-79.37776594404383
+85,Victoria Hotel,Toronto,43.66946915,-79.37326825
+86,North Park,Toronto,43.7186899,-79.4775337
+87,Maple Leaf Park,Toronto,43.7158241,-79.49341621107953
+88,Upwood Park,Toronto,43.708654499999994,-79.50254644741823
+89,Humber Summit,Toronto,43.7600778,-79.5717598
+90,Cliffside,Toronto,43.7111699,-79.2481769
+91,Cliffcrest,Toronto,43.7218363,-79.2362138
+92,Scarborough Village West,Toronto,43.7437422,-79.2116324
+93,Willowdale,Toronto,43.7615095,-79.4109234
+94,Newtonbrook,Toronto,43.795986,-79.4130896
+95,Studio District,Toronto,43.64958515,-79.39068322559326
+96,Bedford Park,Toronto,43.7373876,-79.4109253
+97,Lawrence Manor East,Toronto,43.7220788,-79.4375067
+98,Mount Dennis,Toronto,43.6869597,-79.4895513
+99,Humberlea,Toronto,43.7213166,-79.5331605
+100,Emery,Toronto,43.7520744,-79.5423657
+101,Birch Cliff,Toronto,43.6918051,-79.2644935
+102,Cliffside West,Toronto,43.7111699,-79.2481769
+103,Willowdale East,Toronto,43.7615095,-79.4109234
+104,Lawrence Park,Toronto,43.729199,-79.4032525
+105,Roselawn,Toronto,43.7087103,-79.4097894
+106,Runnymede,Toronto,43.6517026,-79.4759978
+107,The Junction North,Toronto,43.6654775,-79.470352
+108,Weston,Toronto,43.7001608,-79.5162474
+109,Dorset Park,Toronto,43.7528467,-79.282067
+110,Wexford Heights,Toronto,43.7432421,-79.304641
+111,Scarborough Town Centre,Toronto,43.7761341,-79.25843763592165
+112,York Mills West,Toronto,43.7440391,-79.406657
+113,Davisville North,Toronto,43.697936,-79.3972908
+114,Forest Hill North & West,Toronto,43.701028,-79.4255998
+115,Forest Hill Road Park,Toronto,43.6946774,-79.4066795
+116,High Park,Toronto,43.6538668,-79.4668644
+117,The Junction South,Toronto,43.6654775,-79.470352
+118,Westmount,Toronto,43.6936399,-79.5210426
+119,Wexford,Toronto,43.7453767,-79.2947155
+120,Maryvale,Toronto,43.7590508,-79.3102297
+121,Willowdale West,Toronto,43.7615095,-79.4109234
+122,North Toronto West,Toronto,43.6465466,-79.4195263
+123,The Annex,Toronto,43.6703377,-79.407117
+124,North Midtown,Toronto,43.7051999,-79.39741552147335
+125,Yorkville,Toronto,43.6713861,-79.3901677
+126,Parkdale,Toronto,43.6404954,-79.4368965
+127,Roncesvalles,Toronto,43.6514426,-79.4510381
+128,Kingsview Village,Toronto,43.6995391,-79.5563459
+129,St. Phillips,Toronto,43.7000483,-79.5437651
+130,Martin Grove Gardens,Toronto,43.6873105,-79.561967
+131,Richview Gardens,Toronto,43.6848335,-79.5482883
+132,Agincourt,Toronto,43.7853531,-79.2785494
+133,Davisville,Toronto,43.697936,-79.3972908
+134,University of Toronto,Toronto,43.663461999999996,-79.39775965337452
+135,Harbord,Toronto,43.66147475,-79.4143720875944
+136,Swansea,Toronto,43.64494,-79.478313
+137,Clarks Corners,Toronto,43.7964095,-79.2977951
+138,Tam O'Shanter,Toronto,43.7810454,-79.2980941
+139,Sullivan,Toronto,43.7726802,-79.3159449
+140,Moore Park,Toronto,43.6903876,-79.3832965
+141,Summerhill East,Toronto,43.6816776,-79.3905037
+142,Kensington Market,Toronto,43.6552136,-79.4022604
+143,Chinatown,Toronto,43.6529237,-79.3980316
+144,Grange Park,Toronto,43.652196599999996,-79.39231921757992
+145,Milliken,Toronto,43.8231743,-79.3017626
+146,Agincourt North,Toronto,43.8080383,-79.2664391
+147,Steeles East,Toronto,43.8161778,-79.3145378
+148,L'Amoreaux East,Toronto,43.799003,-79.3059669
+149,Summerhill West,Toronto,43.6816776,-79.3905037
+150,Rathnelly,Toronto,43.6783953,-79.4008217
+151,South Hill,Toronto,43.6779261,-79.4057671
+152,Forest Hill SE,Toronto,43.6935586,-79.4139023
+153,Deer Park,Toronto,43.68809,-79.3940935
+154,CN Tower,Toronto,43.6425637,-79.38708718320467
+155,King and Spadina,Toronto,43.6454561,-79.3949942
+156,Harbourfront West,Toronto,43.6400801,-79.3801495
+157,Bathurst Quay,Toronto,43.6357905,-79.398329
+158,South Niagara,Toronto,43.6440753,-79.4086982
+159,New Toronto,Toronto,43.6007625,-79.505264
+160,Mimico South,Toronto,43.6166773,-79.4968048
+161,South Steeles,Toronto,43.8161778,-79.3145378
+162,Silverstone,Toronto,43.749750899999995,-79.59911593109416
+163,Humbergate,Toronto,43.7285115,-79.60624961542362
+164,Jamestown,Toronto,43.7343476,-79.5847935
+165,Mount Olive,Toronto,43.65238435,-79.38356765
+166,Thistletown,Toronto,43.7372656,-79.5653169
+167,Albion Gardens,Toronto,43.7416654,-79.58454336862486
+168,Steeles West,Toronto,43.8161778,-79.3145378
+169,L'Amoreaux West,Toronto,43.799003,-79.3059669
+170,Rosedale,Toronto,43.6783556,-79.3807457
+171,Alderwood,Toronto,43.6017173,-79.5452325
+172,Long Branch,Toronto,43.59200455,-79.54536450659592
+173,Northwest,Toronto,43.6465466,-79.4195263
+174,West Humber - Clairville,Toronto,43.72337025,-79.59745741095173
+175,Upper Rouge,Toronto,43.809343,-79.1875711
+176,Cabbagetown,Toronto,43.6644734,-79.3669861
+177,First Canadian Place,Toronto,43.6487681,-79.38169179283025
+178,Underground city,Toronto,43.7701454,-79.3748625
+179,The Kingsway,Toronto,43.6473811,-79.5113328
+180,Montgomery Road,Toronto,43.6502695,-79.521292
+181,Old Mill North,Toronto,43.649826,-79.4943338
+182,Church and Wellesley,Toronto,43.6655242,-79.3838011
+183,Old Mill South,Toronto,43.649826,-79.4943338
+184,King's Mill Park,Toronto,43.6510895,-79.4920291
+185,Sunnylea,Toronto,43.64159705,-79.5016654011084
+186,Humber Bay,Toronto,43.6400463,-79.495028
+187,Mimico NE,Toronto,43.6166773,-79.4968048
+188,The Queensway East,Toronto,43.6093093,-79.5677317
+189,Royal York South East,Toronto,43.6481827,-79.5112961
+190,Kingsway Park South East,Toronto,43.6473811,-79.5113328
+191,Mimico NW,Toronto,43.6166773,-79.4968048
+192,The Queensway West,Toronto,43.6236182,-79.5147637
+193,Kingsway Park South West,Toronto,43.6473811,-79.5113328
+194,Royal York South West,Toronto,43.6481827,-79.5112961
