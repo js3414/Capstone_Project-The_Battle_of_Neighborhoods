@@ -11,4 +11,3 @@ For the new immigrants, where to live is one of the most important issues. If th
 ### 1.2 Best Place for new business
 If you have a plan to open a Thai restaurant, you think where the best place is. Although the criteria for the best places are different, you want to check competitors and potential customers. You may choose Vancouver because many Thai restaurants are in Toronto but very rare in Vancouver.
 
-## 2. Dataset
